@@ -1,18 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
 ![Brooke Nowak Banner](https://github.com/brookenowak/brookenowak/blob/main/BrookeNowakBanner.jpg)
 
-<!--
-**brookenowak/brookenowak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I'm currently up to:
+* Studying Architectural Engineering at the University of Alabama 🏛️
+* Project Manager on [Campus Survey](https://github.com/brookenowak/campus-survey) 🛠️
+* Baking, reading, and anything else to keep me sane! 📚
 
-Here are some ideas to get you started:
+### Find me around the web:
+💻Visit my [website!](https://bnowak2.wixsite.com/archengr)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗Add me on my [Linkedin!](https://www.linkedin.com/in/brooke-nowak-8b260b174/)
+
