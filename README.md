@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Brooke Nowak Banner](https://github.com/brookenowak/brookenowak/blob/main/BrookeNowakBanner.jpg)
+![Brooke Nowak Banner](https://github.com/brookenowak/brookenowak/blob/main/GitupBanner.jpg)
 
 ### What I'm currently up to:
 * Studying Architectural Engineering at the University of Alabama 🏛️
