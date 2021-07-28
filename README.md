@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Brooke Nowak Banner](https://github.com/brookenowak/brookenowak/blob/main/BrookeNowakBanner.jpeg)
+![Brooke Nowak Banner](https://github.com/brookenowak/brookenowak/blob/main/BrookeNowakBanner.jpg)
 
 <!--
 **brookenowak/brookenowak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
